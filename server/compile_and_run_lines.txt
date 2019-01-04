@@ -1,0 +1,16 @@
+run server: 
+java -cp :commons-codec-1.7.jar server
+
+run client:
+java -cp :commons-codec-1.7.jar client
+
+
+
+compile server:
+
+javac -cp commons-codec-1.7.jar server.java
+
+compile client:
+
+javac -cp commons-codec-1.7.jar client.java
+
