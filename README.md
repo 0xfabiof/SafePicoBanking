@@ -13,7 +13,7 @@ Full report in Portuguese available [here](https://web.fe.up.pt/~up201505331/pro
 
 * Usage of AES CBC Mode to ensure communication confidentiality
 
-* Usage of HMAC256 to ensure integrity and autentication of communications
+* Usage of HMAC256 to ensure communication integrity and autenticity
 
 # Usage
 
