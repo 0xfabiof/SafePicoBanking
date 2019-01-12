@@ -19,20 +19,20 @@ Full report in Portuguese available [here](https://web.fe.up.pt/~up201505331/pro
 
 Compile lines:
 
-> Server (compile): 
+``` Server (compile): 
  
->   javac -cp commons-codec-1.7.jar server.java 
+```   javac -cp commons-codec-1.7.jar server.java 
  
-> Client (compile): 
+``` Client (compile): 
  
->   javac -cp commons-codec-1.7.jar client.java 
+``` javac -cp commons-codec-1.7.jar client.java 
 
 Run lines:
 
-> Server (execute): 
+``` Server (execute): 
  
->   java -cp :commons-codec-1.7.jar server 
+``` java -cp :commons-codec-1.7.jar server 
  
-> Client (execute): 
+``` Client (execute): 
  
->   java -cp :commons-codec-1.7.jar client 
+``` java -cp :commons-codec-1.7.jar client 
